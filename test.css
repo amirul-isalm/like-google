@@ -53,7 +53,7 @@ border-radius: 20px;
 .sarchbar {
     width: 600px;
     background-color: white;
-    height: 50px;
+    height: 45px;
     border: white solid 1px;
     border-radius: 30px;
     margin: auto;
@@ -65,6 +65,7 @@ border-radius: 20px;
     height: 140PX;
    
     margin: auto;
+    color: rgb(26, 23, 23);
 }
 
 #voice {
@@ -91,7 +92,7 @@ input {
 
     
 
-    height: 700px;
+    height: 650px;
     width: 60%;
     margin: 0 auto;
     overflow: hidden;
